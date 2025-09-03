@@ -5,9 +5,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.fiap</groupId>
-  <artifactId>api-springboot</artifactId>
+  <artifactId>demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>api-springboot</name>
+  <name>demo</name>
   <description>API REST com Spring Boot e Swagger</description>
 
   <!-- Herda gerenciamento de versões do Spring Boot -->
