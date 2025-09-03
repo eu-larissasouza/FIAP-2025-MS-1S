@@ -1,0 +1,25 @@
+{
+  "name": "projetos",
+  "version": "1.0.0",
+  "description": "Repositório destinado ao 1º Semestre na disciplina de Microservice and Web Engineering do 3º ano de Sistemas de Informação na FIAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eu-larissasouza/FIAP-2025-MS-1S.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eu-larissasouza/FIAP-2025-MS-1S/issues"
+  },
+  "homepage": "https://github.com/eu-larissasouza/FIAP-2025-MS-1S#readme",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
